@@ -1,1 +1,2 @@
 # Practice pytest
+pytest test
